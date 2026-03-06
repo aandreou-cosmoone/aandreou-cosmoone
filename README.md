@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Tassos Andreou
 
-<!--
-**aandreou-cosmoone/aandreou-cosmoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer**  
+⚙️ C# | .NET | Blazor | ASP.NET Core | SQL Server   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Activity Overview
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tandreou&theme=github)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tandreou&show_icons=true&theme=github_dark)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=tandreou&theme=dark)
+
+---
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandreou&layout=compact&theme=github_dark)
+
+---
+
+## 🔗 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/tandreou/
