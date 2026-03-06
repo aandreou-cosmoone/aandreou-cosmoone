@@ -12,7 +12,7 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aandreou-cosmoone&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aandreou-cosmoone&show_icons=true&theme=github_dark&rank_icon=github)
 
 ---
 
@@ -23,7 +23,8 @@
 
 ## 📫 Contact Me
 
-📧 Email: your-email@example.com  
+📧 Email: tandreou@gmail.com  
+           aandreou@entersoftone.gr
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/tandreou
