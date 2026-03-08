@@ -12,7 +12,7 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aandreou-cosmoone&show_icons=true&theme=github_dark&rank_icon=github)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
