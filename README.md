@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Activity Overview
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aandreou-cosmoone&theme=github-compact)
+![GitHub Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aandreou-cosmoone&theme=github)
 
 ---
 
