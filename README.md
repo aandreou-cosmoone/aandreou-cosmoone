@@ -19,10 +19,6 @@
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=aandreou-cosmoone&theme=dark)
 
-### ⏰ Coding Activity
-
-![Coding Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aandreou-cosmoone&theme=github&timeZone=Europe%2FAthens)
-
 ---
 
 ## 📫 Contact Me
